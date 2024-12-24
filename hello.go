@@ -7,5 +7,6 @@ func main() {
 	// fizzBuzz();
 	// sumOfPositive();
 	// stringReversal();
-	getSmallestNumber();
+	// getSmallestNumber();
+	countingDuplicates();
 }
