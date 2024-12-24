@@ -8,5 +8,6 @@ func main() {
 	// sumOfPositive();
 	// stringReversal();
 	// getSmallestNumber();
-	countingDuplicates();
+	// countingDuplicates();
+	vowelCount();
 }
