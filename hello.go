@@ -4,7 +4,8 @@ import "fmt"
 
 func main() {
     fmt.Println("Hello, World!")
-	fizzBuzz();
-	sumOfPositive();
-	stringReversal();
+	// fizzBuzz();
+	// sumOfPositive();
+	// stringReversal();
+	getSmallestNumber();
 }
