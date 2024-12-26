@@ -9,5 +9,6 @@ func main() {
 	// stringReversal();
 	// getSmallestNumber();
 	// countingDuplicates();
-	vowelCount();
+	// vowelCount();
+	evenOrOdd();
 }
