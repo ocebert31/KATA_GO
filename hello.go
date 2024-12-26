@@ -5,10 +5,11 @@ import "fmt"
 func main() {
     fmt.Println("Hello, World!")
 	// fizzBuzz();
-	// sumOfPositive();
+	// sortPositiveNumbers();
 	// stringReversal();
 	// getSmallestNumber();
 	// countingDuplicates();
 	// vowelCount();
-	evenOrOdd();
+	// evenOrOdd();
+	sumOfArray();
 }
