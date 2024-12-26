@@ -14,5 +14,6 @@ func main() {
 	// vowelCount();
 	// evenOrOdd();
 	// sumOfArray();
-	palindromeCheck();
+	// palindromeCheck();
+	calculateFactorial();
 }
